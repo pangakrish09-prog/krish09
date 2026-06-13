@@ -192,5 +192,4 @@ if search_btn:
         st.error(f"Error: {e}")
 
 else:
-    st.info("Choose filters from the sidebar and click 'Fetch News'.") **
-    
+    st.info("Choose filters from the sidebar and click 'Fetch News'.") 
